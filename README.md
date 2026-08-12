@@ -1,6 +1,6 @@
 # nnyoah-api
 
-一个轻量级 AI 大模型 API 中转站，**完全兼容 OpenAI Chat Completions API**，支持多模型路由、流式响应、多渠道自动重试、Token 计费与健康检测。**纯 PHP + MySQL 实现，零第三方框架依赖，可在普通 PHP 虚拟主机（PHP 7.3+，无额外扩展）上运行。**
+一个基于php的轻量级 AI 大模型 API 中转站，**完全兼容 OpenAI Chat Completions API**，支持多模型路由、流式响应、多渠道自动重试、Token 计费与健康检测。**纯 PHP + MySQL 实现，零第三方框架依赖，可在普通 PHP 虚拟主机（PHP 7.3+，无额外扩展）上运行。**
 
 ## 特性
 
